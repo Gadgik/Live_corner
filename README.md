@@ -21,4 +21,4 @@
 Для работы проекта используется собственная библиотека для управления шаговыми двигателями через драйвер A4988. 
 
 ### Ссылка на репозиторий библиотеки:  
-[STEPPER_lib]([https://github.com/Gadgik/](https://github.com/Gadgik/STEPPER_lib))
+[STEPPER_lib]([https://github.com/Gadgik/STEPPER_lib]
